@@ -1,0 +1,3 @@
+rootProject.name = 'timeTrackingV2'
+
+include ':app'
